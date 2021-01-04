@@ -2,10 +2,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Microservices using Spring Boot and Apache Kafka at Xperi
-- 🌱 I’m currently learning gGraph, Kubernetes
+- 🔭 I’m currently working on Microservices using [Spring Boot](https://spring.io/projects/spring-boot) and [Apache Kafka](https://kafka.apache.org/) at [TiVo](https://www.tivo.com/) a division of [Xperi](https://www.xperi.com/)
+- 🌱 I’m currently learning [Dgraph](https://dgraph.io/), [Kubernetes](https://kubernetes.io/training/)
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+-->
 - 💬 Ask me about Java, Spring Framework. Apache Kafka
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/smukangara)
 - ⚡ Fun fact: taught myself programming using [dBase](https://en.wikipedia.org/wiki/DBase)
