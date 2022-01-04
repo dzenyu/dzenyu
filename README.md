@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 - 💬 Ask me about Java, Spring Framework. Apache Kafka
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/smukangara)
-- ⚡ Fun fact: taught myself programming using [dBase](https://en.wikipedia.org/wiki/DBase)
+- ⚡ Fun fact: taught myself programming using [dBase IV](https://en.wikipedia.org/wiki/DBase)
 
 <br/>
 
