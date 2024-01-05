@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at [Chegg Inc](https://www.chegg.com/)
 - 🔭 Previously worked for [TiVo](https://www.tivo.com/) a division of [Xperi](https://www.xperi.com/)
 - 🌱 I’m currently learning the following:
-  - [Graph QL](https://graphql.org)
+  - [GraphQL](https://graphql.org)
   - [Apollo Graph](https://www.apollographql.com/docs/)
   - [Dgraph](https://dgraph.io/)
   - [Kubernetes](https://kubernetes.io/training/)
