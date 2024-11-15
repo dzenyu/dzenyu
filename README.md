@@ -2,11 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at [Chegg Inc](https://www.chegg.com/)
+- 🔭 I’m currently working at [Chegg Inc](https://www.chegg.com/) as **Staff Software Engineer (Architect**)
 - 🔭 Previously worked for [TiVo](https://www.tivo.com/) a division of [Xperi](https://www.xperi.com/)
 - 🌱 I’m currently learning the following:
-  - [Graph QL](https://graphql.org)
-  - [Apollo Graph](https://www.apollographql.com/docs/)
   - [Dgraph](https://dgraph.io/)
   - [Kubernetes](https://kubernetes.io/training/)
 <!--
@@ -16,8 +14,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about the following:
   - Java
   - Microservices using [Spring Boot](https://spring.io/projects/spring-boot)
-  - [Apache Kafka](https://kafka.apache.org/)
+  - [Apache Kafka (Kafka Streams)](https://kafka.apache.org/)
   - [AWS](https://aws.amazon.com/)
+  - [Graph QL](https://graphql.org)
+  - [Apollo Graph](https://www.apollographql.com/docs/)
+
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/smukangara)
 - ⚡ Fun fact: taught myself programming using [dBase IV](https://en.wikipedia.org/wiki/DBase)
 
