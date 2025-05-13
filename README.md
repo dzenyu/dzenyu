@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   - Microservices using [Spring Boot](https://spring.io/projects/spring-boot)
   - [Apache Kafka (Kafka Streams)](https://kafka.apache.org/)
   - [AWS](https://aws.amazon.com/)
-  - [Graph QL](https://graphql.org)
+  - [GraphQL](https://graphql.org)
   - [Apollo Graph](https://www.apollographql.com/docs/)
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/smukangara)
