@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   - [Apache Kafka (Kafka Streams)](https://kafka.apache.org/)
   - [AWS](https://aws.amazon.com/)
   - [GraphQL](https://graphql.org)
-  - [Apollo Graph](https://www.apollographql.com/docs/)
+  - [Apollo GraphQL](https://www.apollographql.com/docs/)
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/smukangara)
 - ⚡ Fun fact: taught myself programming using [dBase IV](https://en.wikipedia.org/wiki/DBase)
